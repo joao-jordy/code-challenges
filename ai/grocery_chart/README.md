@@ -47,3 +47,8 @@ The total should update automatically when the user makes their selection or mak
   13. Be as much economic as possible in the code length, keeping state data in one variable only.
   14. Should be possible to add, update and remove the product from the buying list.
 ```
+
+#### Output as Single Page Application
+
+[Preview Output Html Content](https://htmlpreview.github.io/?https://github.com/joao-jordy/code-challenges/blob/main/ai/grocery_chart/index.html)
+
